@@ -1,0 +1,1 @@
+smart particles is a genetic algorithms which is to travel through obstacles to reach the target.
